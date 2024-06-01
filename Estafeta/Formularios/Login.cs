@@ -60,6 +60,12 @@ namespace Estafeta.Formularios
                     carga_aerea.ShowDialog();
                     this.Close();
                     break;
+                case "Admin":
+                    Formularios.Admin_View Admin = new Formularios.Admin_View();
+                    this.Hide();
+                    Admin.ShowDialog();
+                    this.Close();
+                    break;
 
             }
         }

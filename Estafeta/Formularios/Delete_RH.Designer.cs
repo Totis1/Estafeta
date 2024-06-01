@@ -88,6 +88,7 @@
             this.Controls.Add(this.BtnAceptar);
             this.Controls.Add(this.label1);
             this.Name = "Delete_RH";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Borrar Registro";
             this.ResumeLayout(false);
             this.PerformLayout();

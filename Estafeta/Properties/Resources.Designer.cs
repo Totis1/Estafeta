@@ -63,6 +63,36 @@ namespace Estafeta.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap avion {
+            get {
+                object obj = ResourceManager.GetObject("avion", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Estafeta {
+            get {
+                object obj = ResourceManager.GetObject("Estafeta", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Estafeta_Carga_Aerea_Boeing_737_300_LDS {
+            get {
+                object obj = ResourceManager.GetObject("Estafeta_Carga_Aerea_Boeing_737-300_LDS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Estafeta_img {
             get {
                 object obj = ResourceManager.GetObject("Estafeta_img", resourceCulture);
@@ -73,9 +103,29 @@ namespace Estafeta.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Estafeta_nueva_piel {
+            get {
+                object obj = ResourceManager.GetObject("Estafeta-nueva-piel", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap personal_de_estafeta {
             get {
                 object obj = ResourceManager.GetObject("personal-de-estafeta", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap personal_de_estafeta1 {
+            get {
+                object obj = ResourceManager.GetObject("personal-de-estafeta1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

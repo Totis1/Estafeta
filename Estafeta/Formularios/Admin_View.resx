@@ -117,26 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Estafeta_Carga_Aerea_Boeing_737-300_LDS" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\Estafeta_Carga_Aerea_Boeing_737-300_LDS.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="personal-de-estafeta1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\personal-de-estafeta.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Estafeta_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\Estafeta_img.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Estafeta-nueva-piel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\Estafeta-nueva-piel.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="personal-de-estafeta" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\personal-de-estafeta.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Estafeta" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\Estafeta.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="avion" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\avion.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

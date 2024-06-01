@@ -50,19 +50,23 @@
             // 
             // Btn_Insertar
             // 
+            this.Btn_Insertar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(67)))), ((int)(((byte)(143)))));
             this.Btn_Insertar.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Btn_Insertar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.Btn_Insertar.Location = new System.Drawing.Point(674, 71);
             this.Btn_Insertar.Name = "Btn_Insertar";
             this.Btn_Insertar.Size = new System.Drawing.Size(209, 46);
             this.Btn_Insertar.TabIndex = 1;
             this.Btn_Insertar.Text = "Insertar";
-            this.Btn_Insertar.UseVisualStyleBackColor = true;
+            this.Btn_Insertar.UseVisualStyleBackColor = false;
             this.Btn_Insertar.Click += new System.EventHandler(this.Btn_Insertar_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Firebrick;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.label1.Location = new System.Drawing.Point(14, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(144, 37);
@@ -71,19 +75,22 @@
             // 
             // BtnEliminar
             // 
+            this.BtnEliminar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(67)))), ((int)(((byte)(143)))));
             this.BtnEliminar.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnEliminar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.BtnEliminar.Location = new System.Drawing.Point(674, 149);
             this.BtnEliminar.Name = "BtnEliminar";
             this.BtnEliminar.Size = new System.Drawing.Size(209, 46);
             this.BtnEliminar.TabIndex = 3;
             this.BtnEliminar.Text = "Eliminar";
-            this.BtnEliminar.UseVisualStyleBackColor = true;
+            this.BtnEliminar.UseVisualStyleBackColor = false;
             this.BtnEliminar.Click += new System.EventHandler(this.BtnEliminar_Click);
             // 
             // Logistica
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::Estafeta.Properties.Resources.Estafeta;
             this.ClientSize = new System.Drawing.Size(897, 482);
             this.Controls.Add(this.BtnEliminar);
             this.Controls.Add(this.label1);
